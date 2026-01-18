@@ -13,14 +13,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Morehouse Business Association Member Database | Black Youth Empowerment Network",
+  title: "Morehouse Business Association Member Database | Morehouse Business Association",
   description: "The official Morehouse Business Association membership portal. Connect with peers, find opportunities, and access resources.",
   icons: {
     icon: "/logo.jpg",
   },
   openGraph: {
     title: "Morehouse Business Association Member Database",
-    description: "Connect, share, and grow with the Black Youth Empowerment Network.",
+    description: "Connect, share, and grow with the Morehouse Business Association.",
     url: "https://members.weareMorehouse Business Association.org",
     siteName: "Morehouse Business Association Membership",
     images: [
