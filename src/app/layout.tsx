@@ -13,16 +13,16 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "BYEN Member Database | Black Youth Empowerment Network",
-  description: "The official BYEN membership portal. Connect with peers, find opportunities, and access resources.",
+  title: "Morehouse Business Association Member Database | Black Youth Empowerment Network",
+  description: "The official Morehouse Business Association membership portal. Connect with peers, find opportunities, and access resources.",
   icons: {
     icon: "/logo.jpg",
   },
   openGraph: {
-    title: "BYEN Member Database",
+    title: "Morehouse Business Association Member Database",
     description: "Connect, share, and grow with the Black Youth Empowerment Network.",
-    url: "https://members.wearebyen.org",
-    siteName: "BYEN Membership",
+    url: "https://members.weareMorehouse Business Association.org",
+    siteName: "Morehouse Business Association Membership",
     images: [
       {
         url: "/logo.jpg",

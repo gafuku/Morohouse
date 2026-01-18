@@ -137,7 +137,7 @@ export default function ProfileSetupPage() {
         <CardHeader>
           <CardTitle>Complete Your Profile</CardTitle>
           <CardDescription>
-            Please provide your details to join the BYEN database.
+            Please provide your details to join the Morehouse Business Association database.
           </CardDescription>
         </CardHeader>
         <CardContent>

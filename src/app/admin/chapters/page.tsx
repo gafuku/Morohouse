@@ -232,7 +232,7 @@ export default function AdminChaptersPage() {
                     <FormItem>
                       <FormLabel>Chapter Email</FormLabel>
                       <FormControl>
-                        <Input placeholder="chapter@byen.org" {...field} />
+                        <Input placeholder="chapter@Morehouse Business Association.org" {...field} />
                       </FormControl>
                       <FormMessage />
                     </FormItem>

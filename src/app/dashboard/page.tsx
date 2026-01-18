@@ -252,7 +252,7 @@ export default function DashboardPage() {
           </CardHeader>
           <CardContent>
             <ul className="list-disc list-inside space-y-2 text-sm">
-              <li>Welcome to the new BYEN Membership Database!</li>
+              <li>Welcome to the new Morehouse Business Association Membership Database!</li>
               <li>2025 Fellowship applications are now open.</li>
               <li>Update your profile to be eligible for chapter grants.</li>
             </ul>

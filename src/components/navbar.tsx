@@ -36,7 +36,7 @@ export function Navbar() {
             href="/dashboard"
             className="mr-6 flex items-center space-x-2 font-bold text-primary"
           >
-            <span>BYEN MEMBER</span>
+            <span>Morehouse Business Association MEMBER</span>
           </Link>
           <nav className="hidden md:flex items-center space-x-6 text-sm font-medium">
             {links.map((link) => (

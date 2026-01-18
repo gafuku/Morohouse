@@ -112,7 +112,7 @@ export default function ResourcesPage() {
             Resource Library
           </h1>
           <p className="text-muted-foreground">
-            Official documents, guides, and templates for BYEN members and
+            Official documents, guides, and templates for Morehouse Business Association members and
             leaders.
           </p>
         </div>

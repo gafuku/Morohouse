@@ -17,7 +17,7 @@ export default function Home() {
             <Link href="/login">Member Login</Link>
           </Button>
           <Button variant="outline" size="lg">
-            <Link href="https://members.wearebyen.org" target="_blank"> Learn More</Link>
+            <Link href="https://members.weareMorehouse Business Association.org" target="_blank"> Learn More</Link>
           </Button>
         </div>
       </main>
