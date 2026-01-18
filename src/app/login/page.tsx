@@ -142,8 +142,8 @@ export default function LoginPage() {
         router.push("/profile/setup");
       }
     } catch (e: any) {
-      console.error(e);
-      toast.error("Google sign in failed");
+        console.error("GOOGLE AUTH ERROR:", e);
+        toast.error(e.code || e.message);
     } finally {
       setGoogleLoading(false);
     }
